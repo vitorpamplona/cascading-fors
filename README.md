@@ -24,3 +24,6 @@ do
     });
 ```
     
+# Use
+
+Just include the file [CascadingFors.java](https://github.com/vitorpamplona/cascading-fors/blob/master/src/main/java/com/vitorpamplona/utils/CascadingFors.java) on your project. 
