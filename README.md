@@ -26,4 +26,6 @@ do
     
 # Use
 
-Just include the file [CascadingFors.java](https://github.com/vitorpamplona/cascading-fors/blob/master/src/main/java/com/vitorpamplona/utils/CascadingFors.java) on your project. 
+Just download and include the file [CascadingFors.java](https://github.com/vitorpamplona/cascading-fors/blob/master/src/main/java/com/vitorpamplona/utils/CascadingFors.java) on your project. Don't forget to adjust the package name. 
+
+Have fun! 
