@@ -1,6 +1,6 @@
 # Cascading Fors
 
-Utility class to make cascading fors more readable. 
+Java Utility class to make cascading fors more readable. 
 
 Instead of 
 
