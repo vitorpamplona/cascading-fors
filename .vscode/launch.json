@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CascadingFors",
+            "request": "launch",
+            "mainClass": "com.vitorpamplona.utils.CascadingFors",
+            "projectName": "cascading-fors"
+        }
+    ]
+}
